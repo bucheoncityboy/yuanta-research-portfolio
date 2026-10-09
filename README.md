@@ -3,6 +3,7 @@
 유안타증권 리서치센터 체험형 인턴 지원용 웹 포트폴리오입니다. 국내외 경제·금융시장 분석과 기업·산업 리포트 작성 지원 업무에 맞춰 브리핑 자동화와 기업분석을 앞에 배치했습니다.
 
 - [공개 사이트](https://bucheoncityboy.github.io/yuanta-research-portfolio/)
+- [소스 저장소](https://github.com/bucheoncityboy/yuanta-research-portfolio)
 - [전체 프로젝트 인덱스](https://github.com/bucheoncityboy/portfolio-index)
 - [실제 AI 활용 브리핑 샘플](https://bucheoncityboy.github.io/yuanta-research-portfolio/samples/2026-10-07.html)
 
@@ -44,4 +45,4 @@ npm run preview
 
 GitHub Pages 소스를 **GitHub Actions**로 설정합니다. `main` 변경 시 `npm ci`, `npm run check`, `npm run typecheck`를 통과한 공개 파일만 배포합니다.
 
-배포 주소는 저장소 생성과 Pages 활성화 후 사용할 수 있습니다. 실제 상태와 검수 결과는 `docs/verification.md`를 참고합니다.
+2026-10-09에 공개 저장소 생성과 GitHub Pages 배포를 완료했습니다. [첫 배포 Actions](https://github.com/bucheoncityboy/yuanta-research-portfolio/actions/runs/37910707981)가 성공했고, 실제 홈페이지·브리핑 샘플·CSS·favicon의 HTTP 200 응답과 원본 파일 일치를 확인했습니다. 공개 화면은 360·390·768·1280px에서 수평 넘침 없이 표시됐습니다. 검수 범위와 접근 제한 링크는 [검증 기록](docs/verification.md)을 참고합니다.
