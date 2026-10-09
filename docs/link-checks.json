@@ -1,0 +1,111 @@
+[
+  {
+    "url": "https://github.com/NomaDamas/k-skill",
+    "status": 200,
+    "final": "https://github.com/NomaDamas/k-skill"
+  },
+  {
+    "url": "https://github.com/NomaDamas/k-skill/blob/main/docs/features/company-analysis.md",
+    "status": 200,
+    "final": "https://github.com/NomaDamas/k-skill/blob/main/docs/features/company-analysis.md"
+  },
+  {
+    "url": "https://github.com/NomaDamas/k-skill/blob/main/docs/features/government-bond-analysis.md",
+    "status": 200,
+    "final": "https://github.com/NomaDamas/k-skill/blob/main/docs/features/government-bond-analysis.md"
+  },
+  {
+    "url": "https://github.com/NomaDamas/k-skill/blob/main/docs/features/korean-bond-search.md",
+    "status": 200,
+    "final": "https://github.com/NomaDamas/k-skill/blob/main/docs/features/korean-bond-search.md"
+  },
+  {
+    "url": "https://github.com/NomaDamas/k-skill/blob/main/docs/features/market-event-impact.md",
+    "status": 200,
+    "final": "https://github.com/NomaDamas/k-skill/blob/main/docs/features/market-event-impact.md"
+  },
+  {
+    "url": "https://github.com/NomaDamas/k-skill/blob/main/docs/features/multi-asset-morning-briefing.md",
+    "status": 200,
+    "final": "https://github.com/NomaDamas/k-skill/blob/main/docs/features/multi-asset-morning-briefing.md"
+  },
+  {
+    "url": "https://github.com/NomaDamas/k-skill/pull/675",
+    "status": 200,
+    "final": "https://github.com/NomaDamas/k-skill/pull/675"
+  },
+  {
+    "url": "https://github.com/NomaDamas/k-skill/pull/677",
+    "status": 200,
+    "final": "https://github.com/NomaDamas/k-skill/pull/677"
+  },
+  {
+    "url": "https://github.com/bucheoncityboy/agentic-research-pipeline",
+    "status": 200,
+    "final": "https://github.com/bucheoncityboy/agentic-research-pipeline"
+  },
+  {
+    "url": "https://github.com/bucheoncityboy/agentic-research-pipeline/blob/main/sample_output/samsung-electronics-20260708.html",
+    "status": 200,
+    "final": "https://github.com/bucheoncityboy/agentic-research-pipeline/blob/main/sample_output/samsung-electronics-20260708.html"
+  },
+  {
+    "url": "https://github.com/bucheoncityboy/company-analysis-skill",
+    "status": 200,
+    "final": "https://github.com/bucheoncityboy/company-analysis-skill"
+  },
+  {
+    "url": "https://github.com/bucheoncityboy/deep-quant-risk-haqr",
+    "status": 200,
+    "final": "https://github.com/bucheoncityboy/deep-quant-risk-haqr"
+  },
+  {
+    "url": "https://github.com/bucheoncityboy/fama-french-integrated-research",
+    "status": 200,
+    "final": "https://github.com/bucheoncityboy/fama-french-integrated-research"
+  },
+  {
+    "url": "https://github.com/bucheoncityboy/government-bond-analysis",
+    "status": 200,
+    "final": "https://github.com/bucheoncityboy/government-bond-analysis"
+  },
+  {
+    "url": "https://github.com/bucheoncityboy/korean-bond-search",
+    "status": 200,
+    "final": "https://github.com/bucheoncityboy/korean-bond-search"
+  },
+  {
+    "url": "https://github.com/bucheoncityboy/krw-rates-integrated-research",
+    "status": 200,
+    "final": "https://github.com/bucheoncityboy/krw-rates-integrated-research"
+  },
+  {
+    "url": "https://github.com/bucheoncityboy/krw-rates-integrated-research/blob/main/KRW_Rates_Integrated_Research_Portfolio.pptx",
+    "status": 200,
+    "final": "https://github.com/bucheoncityboy/krw-rates-integrated-research/blob/main/KRW_Rates_Integrated_Research_Portfolio.pptx"
+  },
+  {
+    "url": "https://github.com/bucheoncityboy/market-event-impact",
+    "status": 200,
+    "final": "https://github.com/bucheoncityboy/market-event-impact"
+  },
+  {
+    "url": "https://github.com/bucheoncityboy/multi-asset-morning-briefing",
+    "status": 200,
+    "final": "https://github.com/bucheoncityboy/multi-asset-morning-briefing"
+  },
+  {
+    "url": "https://github.com/bucheoncityboy/portfolio-index",
+    "status": 200,
+    "final": "https://github.com/bucheoncityboy/portfolio-index"
+  },
+  {
+    "url": "https://github.com/bucheoncityboy/portfolio-index#2-교내-활동",
+    "status": 200,
+    "final": "https://github.com/bucheoncityboy/portfolio-index"
+  },
+  {
+    "url": "https://www.linkedin.com/in/jaewon-kim-kr/",
+    "status": 405
+  }
+]

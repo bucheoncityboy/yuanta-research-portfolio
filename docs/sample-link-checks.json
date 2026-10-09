@@ -1,0 +1,122 @@
+[
+  {
+    "url": "https://cdn.cboe.com/api/global/us_indices/daily_prices/VIX_History.csv",
+    "status": 200
+  },
+  {
+    "url": "https://data-api.ecb.europa.eu/service/data/EXR/D.USD+JPY+GBP.EUR.SP00.A?format=csvdata&startPeriod=2026-10-05&endPeriod=2026-10-06",
+    "status": 200
+  },
+  {
+    "url": "https://ecos.bok.or.kr/api/StatisticSearch/sample/json/kr/1/10/802Y001/D/20261002/20261002",
+    "status": 200
+  },
+  {
+    "url": "https://ecos.bok.or.kr/api/StatisticSearch/sample/json/kr/1/10/802Y001/D/20261006/20261006",
+    "status": 200
+  },
+  {
+    "url": "https://github.com/NomaDamas/k-skill/tree/9fade13b1066bc58fd820fe659145a9a21974138/multi-asset-morning-briefing",
+    "status": 200
+  },
+  {
+    "url": "https://github.com/bucheoncityboy/yuanta-research-portfolio/blob/main/docs/source-notes.md",
+    "status": 404
+  },
+  {
+    "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/daily-treasury-rates.csv/2026/all?type=daily_treasury_yield_curve&field_tdr_date_value=2026&page&_format=csv",
+    "status": 200
+  },
+  {
+    "url": "https://indexes.nasdaqomx.com/Index/History/COMP",
+    "status": 200
+  },
+  {
+    "url": "https://indexes.nasdaqomx.com/Index/History/SOX",
+    "status": 200
+  },
+  {
+    "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4437978",
+    "status": 404
+  },
+  {
+    "url": "https://trn.krx.co.kr/index.jsp",
+    "status": 200
+  },
+  {
+    "url": "https://www.bls.gov/schedule/2026/10_sched.htm",
+    "status": 200
+  },
+  {
+    "url": "https://www.bok.or.kr/portal/stats/statsPublictSchdul/listCldr.do?menuNo=200775",
+    "status": 200
+  },
+  {
+    "url": "https://www.cmegroup.com/daily_bulletin/current/Section61_Energy_Futures_Products.pdf",
+    "status": 200
+  },
+  {
+    "url": "https://www.cmegroup.com/daily_bulletin/current/Section62_Metals_Futures_Products.pdf",
+    "status": 200
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html",
+    "status": 200
+  },
+  {
+    "url": "https://www.etoday.co.kr/news/view/2632939?trc=main_market_lnews",
+    "status": 200
+  },
+  {
+    "url": "https://www.federalreserve.gov/newsevents/2026-october.htm",
+    "status": 200
+  },
+  {
+    "url": "https://www.fnnews.com/news/202610070525261635",
+    "status": 200
+  },
+  {
+    "url": "https://www.ishares.com/us/products/239681/ishares-msci-south-korea-capped-etf",
+    "status": 200
+  },
+  {
+    "url": "https://www.marketscreener.com/news/google-enters-massive-3-6-gw-power-deal-with-constellation-energy-ce785dd8d08cf322",
+    "status": 200
+  },
+  {
+    "url": "https://www.marketscreener.com/news/oil-prices-stable-as-market-weighs-supply-risks-rising-middle-east-exports-ce785dd9da81f024",
+    "status": 200
+  },
+  {
+    "url": "https://www.newsis.com/view/NISX20261006_0003815896",
+    "status": 200
+  },
+  {
+    "url": "https://www.seattlepi.com/business/how-major-us-stock-indexes-fared-tuesday-10-6-2026-a22465603",
+    "status": 200
+  },
+  {
+    "url": "https://www.sifma.org/news/press-releases/sifma-fixed-income-market-close-recommendations-in-the-u-s-the-u-k-and-japan-for-u-s-columbus-day-and-japan-health-and-sports-day-holidays-2026",
+    "status": 200
+  },
+  {
+    "url": "https://www.ssga.com/us/en/intermediary/etfs/state-street-utilities-select-sector-spdr-etf-xlu",
+    "status": 200
+  },
+  {
+    "url": "https://www.treasurydirect.gov/instit/annceresult/press/preanre/2026/A_20261001_3.pdf",
+    "status": 200
+  },
+  {
+    "url": "https://www.treasurydirect.gov/instit/annceresult/press/preanre/2026/A_20261001_4.pdf",
+    "status": 200
+  },
+  {
+    "url": "https://www.wsj.com/market-data/quotes/etf/EWY/historical-prices",
+    "status": 401
+  },
+  {
+    "url": "https://www.wsj.com/market-data/quotes/index/DXY/historical-prices",
+    "status": 401
+  }
+]
